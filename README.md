@@ -1,4 +1,4 @@
-# TheDevHuts Coding Approach For Embedded Software
+# TheDevHuts coding approach for embedded software
 
 This code snippets should give you an overview of my coding approach (Coding/Testing/Documenting tight together).
 
