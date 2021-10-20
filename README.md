@@ -1,6 +1,7 @@
 # TheDevHuts coding approach for embedded software
 
-This code snippets should give you an overview of my coding approach (Coding/Testing/Documenting tight together).
+This code snippets will give you an overview of how we@TheDevHuts approach embedded software development.
+## Coding, Testing and Documentation tight together
 
 The files included in this repo implement a Temperature and Humidity demo application.
 - HAL / I2C Driver (Andes RISCV platform)
