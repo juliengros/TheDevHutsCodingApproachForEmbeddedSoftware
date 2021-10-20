@@ -1,12 +1,12 @@
 /*
- * Copyright (c) ANOTHERBRAIN, 2018.
+ * Copyright (c) THEDEVHUTS, 2020.
  * All rights reserved. Permission to use, copy, modify, distribute in any
  * form or by any means or store in any database or retrieval system any
  * parts of this copyrighted work is forbidden.
  * Contact ANOTHERBRAIN (contact@anotherbrain.ai) for licensing agreement
  * opportunities.
  *
- * Contributors: Florent Remis / Julien Gros
+ * Contributor: Julien Gros
  *
  */
 
