@@ -3,7 +3,7 @@
  * All rights reserved. Permission to use, copy, modify, distribute in any
  * form or by any means or store in any database or retrieval system any
  * parts of this copyrighted work is forbidden.
- * Contact TheDevHuts (contact@thedevhuts.ai) for licensing agreement
+ * Contact TheDevHuts (contact@thedevhuts.com) for licensing agreement
  * opportunities.
  *
  * Contributor: Florent Remis
